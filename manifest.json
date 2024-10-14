@@ -1,0 +1,7 @@
+{
+    "name": "lockedField",
+    "type": "text",
+    "inject": true,
+    "capabilities": {},
+    "target" : ["android"]
+}
